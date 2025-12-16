@@ -1,0 +1,19 @@
+.colores-td{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.color {
+    width: 24px;
+    height: 16px;
+    border: 1px solid #000;
+}
+
+.azul {
+    background-color: #0b2dbf;
+}
+
+.negro {
+    background-color: black;
+}
