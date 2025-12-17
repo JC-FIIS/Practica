@@ -1,0 +1,21 @@
+/* SOLO para el carrusel de MT-15 */
+#carouselMT15 .carousel-control-prev-icon,
+#carouselMT15 .carousel-control-next-icon{
+  background-color: rgba(156, 153, 153, 0.95);
+  width: 34px;
+  height: 54px;
+  border-radius: 8px;
+  background-size: 60% 60%;
+}
+
+/* hace que el botón (área clickeable) no se pegue al borde */
+#carouselMT15 .carousel-control-prev,
+#carouselMT15 .carousel-control-next{
+  width: 10%;
+}
+
+/*un borde sutil para que resalte más */
+#carouselMT15 .carousel-control-prev-icon,
+#carouselMT15 .carousel-control-next-icon{
+  border: 1px solid rgba(0,0,0,0.15);
+}
