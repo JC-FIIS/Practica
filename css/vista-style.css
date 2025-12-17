@@ -22,3 +22,36 @@ h6{
     justify-content: center;
     align-items: center;
 }
+
+.caja {
+    background-color: #fff;
+    border-radius: 6px;
+
+    box-shadow: 
+        0 0 0 1px #ccc,       
+        0 4px 10px rgba(0,0,0,0.25);
+}
+
+.colores-td{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.color {
+    width: 24px;
+    height: 16px;
+    border: 1px solid #000;
+}
+
+.azul {
+    background-color: #0b2dbf;
+}
+
+.negro {
+    background-color: black;
+}
+
+.blanco{
+    background-color: white;
+}

@@ -10,7 +10,10 @@ Proyecto desarrollado como práctica académica utilizando HTML, CSS y Bootstrap
 
 ## Estructura del proyecto
 - Página principal con carrusel y cards de modelos
-- Páginas individuales por modelo (R1, R3, R6, R15)
+- Tema empleado: Linea de motocicletas Supersport (Linea R) e Hyper Naked (Linea Mt) de la 
+  marca YAMAHA  
+- Contenedor individuales por linea de modelo R y MT
+- Cada card contiene informacion de cada modelo de de la line R y MT
 - Estilos personalizados en CSS
 - Diseño responsive
 
